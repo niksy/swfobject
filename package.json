@@ -1,0 +1,16 @@
+{
+  "name": "swfobject",
+  "version": "2.3.0+niksy.1.0.0",
+  "description": "",
+  "main": "swfobject/src/swfobject.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niksy/swfobject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niksy/swfobject/issues"
+  },
+  "homepage": "https://github.com/niksy/swfobject#readme"
+}

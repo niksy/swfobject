@@ -1,5 +1,5 @@
 {
   "name": "swfobject",
-  "version": "2.3.0",
-  "main": "./swfobject/swfobject.js"
+  "version": "2.3.0+niksy.1.0.0",
+  "main": "swfobject/src/swfobject.js"
 }
